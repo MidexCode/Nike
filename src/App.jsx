@@ -8,12 +8,12 @@ import { SpecialOffers } from "./Components/SpecialOffers/SpecialOffers";
 import { CustomerReview } from "./Components/CustomerReview/CustomerReview";
 import { Subscribe } from "./Components/Subscribe/Subscribe";
 import { Footer } from "./Components/Footer/Footer";
+import ShoeCard from "./Components/ShoeCard/ShoeCard";
 
 const App = () => {
   return (
     <main className="relative">
       <Navbar />
-
       <section className="xl:padding-1 wide:padding-r padding-b">
         <Hero />
       </section>
