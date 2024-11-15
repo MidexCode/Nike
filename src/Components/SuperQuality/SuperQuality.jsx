@@ -7,7 +7,7 @@ export const SuperQuality = () => {
     <>
       <section
         id="about-us"
-        className="flex justify-between items-center max:lg:flex-col gap-10 w-full max-container"
+        className="flex justify-between items-center max:lg:flex-col gap-10 max-xl:flex-col-reverse w-full max-container"
       >
         <div className="flex flex-1 flex-col">
           <h2 className="font-palanquin text-4xl font-bold capitalize lg:max-w-lg">
